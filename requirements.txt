@@ -1,0 +1,7 @@
+jupyter
+python-dotenv
+praw
+textblob
+pandas
+matplotlib
+openai

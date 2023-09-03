@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+*.ipynb_checkpoints/
+
+# Virtual Environment
+sentiment_env/
+
+.env
