@@ -5,3 +5,9 @@ textblob
 pandas
 matplotlib
 openai
+pytesseract
+spacy
+spacy-lookups-data
+scikit-learn
+tensorflow
+transformers
