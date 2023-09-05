@@ -11,7 +11,7 @@ This Jupyter notebook implements a **Reddit analyzer** focused on posts about **
 
 ## Key Steps
 
-- Search Reddit for posts containing keywords like **"McAfee"** [Link](#get-training-data)
+- Search Reddit for posts containing keywords like **"McAfee"**
 
 - Use **OpenAI's GPT-3** to <span style="color:green">**classify posts**</span> as relevant or not to McAfee antivirus
 
