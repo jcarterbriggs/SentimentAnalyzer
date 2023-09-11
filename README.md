@@ -46,3 +46,7 @@ Key techniques used include:
 - Data labeling
 - Model evaluation
 - Time series visualization
+
+Although the analysis would likely require more data both for model training as well as the final trending analysis there are some interesting initial results if you scroll to the bottom of the Jupyter Notebook:
+![image](https://github.com/jcarterbriggs/SentimentAnalyzer/assets/75143049/313d3cdd-ed66-4193-98fa-d05ef6ab7033)
+
